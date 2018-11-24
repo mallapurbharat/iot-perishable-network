@@ -1,3 +1,6 @@
+This repo is adapted from https://github.com/makotogo/developerWorks/tree/master/iot-perishable-network-advanced
+
+
 # IoT Perishable Goods Network
 Example business network that shows growers, shippers and importers defining contracts for the price of perishable goods, based on temperature readings from IoT sensors in the shipping containers.
 
