@@ -1,0 +1,6 @@
+#created by Bharat Mallapur (bharatontech@gmail.com)
+
+https://developers.google.com/identity/protocols/OAuth2?refresh=1
+https://hyperledger.github.io/composer/v0.19/tutorials/google_oauth2_rest
+
+https://www.youtube.com/watch?v=9x66l93iEW0
